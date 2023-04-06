@@ -1,4 +1,4 @@
-## Why am I getting this error - Error occurred while initializing LogAnalytics Client" ?
+## Why am I getting this error - "Error occurred while initializing LogAnalytics Client" ?
 ## Why am I getting this error - "Error occurred while parsing oci_la_log_set" ?
 ## Why am I getting this error - "Error while uploading the payload" or  "execution expired" or  "status : 0" ?
 ## How to find fluentd/output plugin logs ?
